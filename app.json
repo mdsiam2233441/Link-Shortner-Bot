@@ -10,35 +10,36 @@
 	"Tnlink",
 	"pdisklinkshortener"
 	"adrinolinks"
+        "coffelink"
     ],
     "website": "https://github.com/Rafik0786/Ag-link-shortner-",
     "repository": "https://github.com/Rafik0786/Ag-link-shortner-",
     "env": {
         "API_HASH": {
-            "description": "61f20724c18a07c1150a4297f3240f05",
-            "value": ""
+            "description": "0b6f3e4a98948a2be450ed198784d614",
+            "value": "0b6f3e4a98948a2be450ed198784d614"
         },
         "API_ID": {
-            "description": "24897616",
-            "value": ""
+            "description": "9815122",
+            "value": "9815122"
         },
         "API_KEY": {
-            "description": "http://adrinolinks.in",
-            "value": ""
+            "description": " https://coffelink.online",
+            "value": "https://coffelink.online"
         },
         "API_URL": {
-            "description": "92e45da7e8b1afa4ce12ccfb2546ea0248cff640",
-            "value": ""
+            "description": "2134e64033fb0e9be820e4158ea151159e7f3375",
+            "value": "2134e64033fb0e9be820e4158ea151159e7f3375"
         },
         "BOT_TOKEN": {
-            "description": "6371350342:AAEc-KJpS4k-mLDvoW9Ncz1a4Mk2Za_fD8E",
-            "value": ""
+            "description": "7298407948:AAGjgsD2nqgoWMtIwl9yAYSPt4BkcPVhR4Q",
+            "value": "7298407948:AAGjgsD2nqgoWMtIwl9yAYSPt4BkcPVhR4Q"
         }
     },
     "addons": [],
     "buildpacks": [
         {
-            "url": "heroku/python"
+            "url": "render/python"
         }
     ],
     "formation": {
@@ -47,5 +48,5 @@
             "size": "free"
         }
     },
-    "stack": "heroku-22"
+    "stack": "render-22"
 }
