@@ -23,3 +23,5 @@
 |6. |  MdiskShortener  |   `https://mdiskshortner.link/api`                       |https://mdiskshortner.link/member/tools/api  |
 |7. |  EasySky         |   `https://easysky.in/api`                               |https://easysky.in/members/tools/api         |
 |8. |  ClickyFly       |   `https://clickyfly.com/api`                            |https://clickyfly.com/member/tools/api       |
+
+|9. |  ClickyFly       |   ` https://coffelink.online/api`                            | https://coffelink.online/member/tools/api       |
